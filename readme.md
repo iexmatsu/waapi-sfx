@@ -18,6 +18,7 @@ https://www.audiokinetic.com/library/edge/?source=SDK&id=ak_wwise_core_object_se
 * Start Wwise and open a project
 * Run the script:
  `py -3 waapi-sfx.py`
+* Play the new sounds in the `\Actor-Mixer Hierarchy\Default Work Unit`
 
 ## Learn More
 
