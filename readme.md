@@ -19,15 +19,11 @@ https://www.audiokinetic.com/library/edge/?source=SDK&id=ak_wwise_core_object_se
 * Run the script:
  `py -3 waapi-sfx.py`
 
-## Execution
-
-Double-click on `index.html`
-
 ## Learn More
 
 - [WAAPI Reference](https://www.audiokinetic.com/library/edge/?source=SDK&id=waapi_functions_index.html) - Learn the details of each WAAPI functions.
 - [ak.wwise.core.object.set](
 https://www.audiokinetic.com/library/edge/?source=SDK&id=ak_wwise_core_object_set.html) - Learn more about ak.wwise.core.object.set.
 - [Importing Audio Files and Creating Structures](https://www.audiokinetic.com/library/edge/?source=SDK&id=waapi_import.html) - Learn how to create Wwise structures.
-- [Synth One Reference](https://www.audiokinetic.com/library/edge/?source=SDK&id=wwiseobject_source_wwise_synth_one.html) - Learn about Synth One properties
+- [Synth One Reference](https://www.audiokinetic.com/library/edge/?source=SDK&id=wwiseobject_source_wwise_synth_one.html) - Learn about Synth One properties.
 - [Wwise Object Reference](https://www.audiokinetic.com/library/edge/?source=SDK&id=wobjects_index.html) - Learn about Wwise objects and their properties.
