@@ -219,7 +219,7 @@ def Generate(num_sounds):
         "objects": [
             {
                 "object": "\\Actor-Mixer Hierarchy\\Default Work Unit",
-                "children": list(map( lambda i : Sound(i, uniform(0.1, 3)), range(1,num_sounds)))
+                "children": list(map( lambda i : Sound(i, uniform(0.1, 3)), range(1,num_sounds+1)))
             },
 
         ],
